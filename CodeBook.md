@@ -8,7 +8,7 @@ A full description of the data used in this project can be found at [The UCI Mac
 
 [The source data for this project can be found here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-# Variables
+# Variables and Process
 
 * `xTrain`, `yTrain`, `xTest`, `yTest`, `subjectTrain`, `activityType`, `features` and `subjectTest` contain the data from the downloaded files.
 * `trainingData` and `testData` combines the previous datasets to further analysis.
